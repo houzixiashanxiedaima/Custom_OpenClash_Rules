@@ -1,7 +1,7 @@
 # Generated from rule/Custom_Direct.list
 # REPO: https://github.com/Aethersailor/Custom_OpenClash_Rules
 # SOURCE: https://github.com/Aethersailor/Custom_OpenClash_Rules/blob/main/rule/Custom_Direct.list
-# TOTAL: 169
+# TOTAL: 174
 
 payload:
   - DOMAIN-KEYWORD,quickconnect
@@ -132,6 +132,7 @@ payload:
   - DOMAIN-SUFFIX,qiaoxuesi.com
   - DOMAIN-SUFFIX,registry.dockermirror.com
   - DOMAIN-SUFFIX,rewards.bing.com
+  - DOMAIN-SUFFIX,rsfcxq.com
   - DOMAIN-SUFFIX,sanligu.top
   - DOMAIN-SUFFIX,sapphiretech.com
   - DOMAIN-SUFFIX,scbaijia.com
@@ -140,6 +141,7 @@ payload:
   - DOMAIN-SUFFIX,sgtv.ii00.cc
   - DOMAIN-SUFFIX,sixloy428.top
   - DOMAIN-SUFFIX,sksight.com
+  - DOMAIN-SUFFIX,snfox.com
   - DOMAIN-SUFFIX,snltty.com
   - DOMAIN-SUFFIX,sptv.ii00.cc
   - DOMAIN-SUFFIX,suyur.com
@@ -157,6 +159,8 @@ payload:
   - DOMAIN-SUFFIX,vcltrade.com
   - DOMAIN-SUFFIX,warmheart.top
   - DOMAIN-SUFFIX,webs.vc
+  - DOMAIN-SUFFIX,wewillpro.com
+  - DOMAIN-SUFFIX,wlcdn88.com
   - DOMAIN-SUFFIX,wwwh.eu.org
   - DOMAIN-SUFFIX,xdqtech.com
   - DOMAIN-SUFFIX,xiankabao.com
@@ -165,6 +169,7 @@ payload:
   - DOMAIN-SUFFIX,xopenbeta.com
   - DOMAIN-SUFFIX,yiso.fun
   - DOMAIN-SUFFIX,yunzuoye.net
+  - DOMAIN-SUFFIX,zeekrline.com
   - DOMAIN-SUFFIX,zhongancloud.com
   - DOMAIN-SUFFIX,znnu.com
   - DOMAIN-SUFFIX,znztv.com
